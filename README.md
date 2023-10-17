@@ -3,7 +3,7 @@
 This project's goal is to identify individuals across multiple camera views in publicly available CCTV footage. It covers various steps, from data collection and preprocessing to person detection, tracking, feature extraction, and re-identification model development.
 
 <h2>Table of Contents</h2>
-1.	Data Collection and Preprocessing
+ 1.	Data Collection and Preprocessing
 
 2.	Person Detection and Tracking
    
