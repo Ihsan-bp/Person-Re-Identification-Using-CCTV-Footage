@@ -43,6 +43,7 @@ For a practical demonstration of the person detection and tracking processes, yo
 In this step, we extract relevant features from detected and tracked individuals. Effective feature extraction plays a critical role in person re-identification.
 <h3>Feature Extraction Methods</h3>
 We have employed the following feature extraction methods:
+
 <b>1.	CNN Embeddings:</b> To extract high-level features from the detected and tracked individuals, we used Convolutional Neural Network (CNN) embeddings. In particular, we employed an EfficientNet model pre-trained on a large dataset. These embeddings capture the distinctive characteristics of each person and are used for subsequent re-identification tasks.
 
 <b>2.	Color Histograms:</b> In addition to CNN embeddings, we also considered color histograms to capture color information. However, the primary emphasis is on CNN embeddings due to their effectiveness in re-identification.
@@ -58,6 +59,7 @@ The person re-identification model is implemented using PyTorch, with the follow
 
 <h3>Training Process</h3>
 The training process consists of the following key components:
+
 •	<b>Loss Function:</b> We used the Triplet Margin Loss as our loss function. This loss encourages the model to minimize the distance between positive pairs (images of the same person) while maximizing the distance between negative pairs (images of different individuals).
 
 •	<b>Optimizer:</b> We employed the Adam optimizer with a learning rate of 0.001 to train the model.
