@@ -97,6 +97,4 @@ We demonstrate how our model can accurately re-identify individuals across diffe
 
 ![Anchor_Negative_Positive_2](https://github.com/Ihsan-bp/Person-Re-Identification-Using-CCTV-Footage/blob/main/A_N_P2.png)
 
-
-
-
+![Final_Result_Maping](https://github.com/Ihsan-bp/Person-Re-Identification-Using-CCTV-Footage/blob/main/final_result_maping.png)
