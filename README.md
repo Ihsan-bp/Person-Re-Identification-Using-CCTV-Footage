@@ -91,8 +91,7 @@ We demonstrate how our model can accurately re-identify individuals across diffe
 
 <h3>sample  visualization</h3>
 
-![Image Alt Text]([Image URL](https://drive.google.com/file/d/18c6EB9ym2W9938FsmSY0NlEhNTqtEQEG/view?usp=sharing)https://drive.google.com/file/d/18c6EB9ym2W9938FsmSY0NlEhNTqtEQEG/view?usp=sharing)
-
+![Siamese network]([Image URL](https://github.com/Ihsan-bp/Person-Re-Identification-Using-CCTV-Footage/blob/main/Siamese%20Network.webp)
 
 
 
