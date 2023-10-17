@@ -4,9 +4,13 @@ This project's goal is to identify individuals across multiple camera views in p
 
 <h2>Table of Contents</h2>
 1.	Data Collection and Preprocessing
+
 2.	Person Detection and Tracking
+   
 3.	Feature Extraction
+   
 4.	Person Re-Identification Model
+   
 5.	Visualization and Demonstration
 
 <h2>Step 1: Data Collection and Preprocessing</h2>
