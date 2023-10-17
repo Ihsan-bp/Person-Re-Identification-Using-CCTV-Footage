@@ -93,6 +93,7 @@ We demonstrate how our model can accurately re-identify individuals across diffe
 
 ![Siamese network](https://github.com/Ihsan-bp/Person-Re-Identification-Using-CCTV-Footage/blob/main/Siamese%20Network.webp)
 
+![Anchor_Negative_Positive](https://github.com/Ihsan-bp/Person-Re-Identification-Using-CCTV-Footage/blob/main/A_N_P.png)
 
 
 
